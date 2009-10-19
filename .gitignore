@@ -1,0 +1,5 @@
+# Ignore the keystore and generated targets and distributables
+keystore
+target
+dist
+
